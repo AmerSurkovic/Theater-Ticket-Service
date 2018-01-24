@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPredstava xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Predstava>
+    <ID>1</ID>
+    <nazivPredstave>Ljeto u zlatnoj dolini</nazivPredstave>
+    <tipPredstave>Drama</tipPredstave>
+    <cijenaKarte>12</cijenaKarte>
+    <datumPredstave>2018-01-24T00:00:00+01:00</datumPredstave>
+    <kategorijaPredstave>Odrasli</kategorijaPredstave>
+    <Sala>0</Sala>
+    <brojMjesta>0</brojMjesta>
+  </Predstava>
+  <Predstava>
+    <ID>0</ID>
+    <nazivPredstave>Hamlet u selu mrdusa donja</nazivPredstave>
+    <tipPredstave>Komedija</tipPredstave>
+    <cijenaKarte>12</cijenaKarte>
+    <datumPredstave>2018-01-24T00:00:00+01:00</datumPredstave>
+    <kategorijaPredstave>Odrasli</kategorijaPredstave>
+    <Sala>0</Sala>
+    <brojMjesta>0</brojMjesta>
+  </Predstava>
+</ArrayOfPredstava>

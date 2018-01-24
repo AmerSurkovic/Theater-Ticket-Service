@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2269BF1-380B-49A6-81B6-89022B8DD653}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Zadaca2_Pozoriste</RootNamespace>
+    <AssemblyName>Zadaca2_Pozoriste</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.1.2400\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Grafovi\BarChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grafovi\BarChart.Designer.cs">
+      <DependentUpon>BarChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BazaPodatakaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BazaPodatakaAdmin.Designer.cs">
+      <DependentUpon>BazaPodatakaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormatUnosaException.cs" />
+    <Compile Include="Klase\Izuzetak.cs" />
+    <Compile Include="Klase\IzuzetakDB.cs" />
+    <Compile Include="Klase\Rezervator.cs" />
+    <Compile Include="Karte\ProdajaKarata_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Karte\ProdajaKarata_Form2.Designer.cs">
+      <DependentUpon>ProdajaKarata_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Klase\PredstavaDB.cs" />
+    <Compile Include="Grafovi\PieChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grafovi\PieChart.Designer.cs">
+      <DependentUpon>PieChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Predstave\PredstaveDrvo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Predstave\PredstaveDrvo.Designer.cs">
+      <DependentUpon>PredstaveDrvo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Predstave\PredstaveTabela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Predstave\PredstaveTabela.Designer.cs">
+      <DependentUpon>PredstaveTabela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Programi\InfoPredstave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programi\InfoPredstave.Designer.cs">
+      <DependentUpon>InfoPredstave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Klase\Pozorisni program.cs" />
+    <Compile Include="Klase\Pozoriste.cs" />
+    <Compile Include="Klase\Predstava.cs" />
+    <Compile Include="Predstave\PrikaziPredstave_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Predstave\PrikaziPredstave_Form2.Designer.cs">
+      <DependentUpon>PrikaziPredstave_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Programi\PrikaziPrograme_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programi\PrikaziPrograme_Form2.Designer.cs">
+      <DependentUpon>PrikaziPrograme_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Predstave\UnosPredstave_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Predstave\UnosPredstave_Form2.Designer.cs">
+      <DependentUpon>UnosPredstave_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Programi\UnosPrograma_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programi\UnosPrograma_Form2.Designer.cs">
+      <DependentUpon>UnosPrograma_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Karte\RezervacijaKarata_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Karte\RezervacijaKarata_Form2.Designer.cs">
+      <DependentUpon>RezervacijaKarata_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnicke kontrole\RezervacijaUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnicke kontrole\RezervacijaUserControl.Designer.cs">
+      <DependentUpon>RezervacijaUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnicke kontrole\UnosTelefonaUsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnicke kontrole\UnosTelefonaUsControl.Designer.cs">
+      <DependentUpon>UnosTelefonaUsControl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Grafovi\BarChart.resx">
+      <DependentUpon>BarChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BazaPodatakaAdmin.resx">
+      <DependentUpon>BazaPodatakaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Karte\ProdajaKarata_Form2.resx">
+      <DependentUpon>ProdajaKarata_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grafovi\PieChart.resx">
+      <DependentUpon>PieChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Predstave\PredstaveDrvo.resx">
+      <DependentUpon>PredstaveDrvo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Predstave\PredstaveTabela.resx">
+      <DependentUpon>PredstaveTabela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programi\InfoPredstave.resx">
+      <DependentUpon>InfoPredstave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Predstave\PrikaziPredstave_Form2.resx">
+      <DependentUpon>PrikaziPredstave_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programi\PrikaziPrograme_Form2.resx">
+      <DependentUpon>PrikaziPrograme_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Predstave\UnosPredstave_Form2.resx">
+      <DependentUpon>UnosPredstave_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programi\UnosPrograma_Form2.resx">
+      <DependentUpon>UnosPrograma_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Karte\RezervacijaKarata_Form2.resx">
+      <DependentUpon>RezervacijaKarata_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnicke kontrole\RezervacijaUserControl.resx">
+      <DependentUpon>RezervacijaUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnicke kontrole\UnosTelefonaUsControl.resx">
+      <DependentUpon>UnosTelefonaUsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\err.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\er.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File-TXT-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teatarBASIC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teatarBASIC1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

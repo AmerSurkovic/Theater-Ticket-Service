@@ -1,0 +1,49 @@
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Zadaca2_Pozoriste.exe.config
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Zadaca2_Pozoriste.exe
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Zadaca2_Pozoriste.pdb
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.Properties.Resources.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.csproj.GenerateResource.Cache
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.exe
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.pdb
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.RPRPozoriste_MainForm.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.UnosPredstave_Form2.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PrikaziPredstave_Form2.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.UnosPrograma_Form2.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PrikaziPrograme_Form2.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.InfoPredstave.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.ProdajaKarata_Form2.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.csprojResolveAssemblyReference.cache
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.RezervacijaUserControl.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.UnosTelefonaUsControl.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.RezervacijaKarata_Form2.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PredstaveTabela.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PredstaveDrvo.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.BazaPodatakaAdmin.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.BarChart.resources
+C:\Users\Amer\Documents\Visual Studio 2012\Projects\RPR\Zadace\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PieChart.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Zadaca2_Pozoriste.exe.config
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Zadaca2_Pozoriste.exe
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Zadaca2_Pozoriste.pdb
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.csprojResolveAssemblyReference.cache
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.BarChart.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.BazaPodatakaAdmin.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.RPRPozoriste_MainForm.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.ProdajaKarata_Form2.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PieChart.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PredstaveDrvo.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PredstaveTabela.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.InfoPredstave.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PrikaziPredstave_Form2.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.PrikaziPrograme_Form2.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.Properties.Resources.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.UnosPredstave_Form2.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.UnosPrograma_Form2.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.RezervacijaKarata_Form2.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.RezervacijaUserControl.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.UnosTelefonaUsControl.resources
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.csproj.GenerateResource.Cache
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.csproj.CoreCompileInputs.cache
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.exe
+C:\Users\Amer\Desktop\Zadaca 4, Zadatak 2; Amer Surkovic, 16781\Zadaca2_Pozoriste\Zadaca2_Pozoriste\obj\Debug\Zadaca2_Pozoriste.pdb
